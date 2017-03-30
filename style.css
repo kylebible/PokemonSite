@@ -1,0 +1,34 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.pokemons {
+  width: 60%;
+  display: inline-block;
+  text-align: center;
+}
+
+.pokedex {
+  width:39%;
+  height: 60%;
+  display: inline-block;
+  border: 2px solid red;
+  vertical-align: middle;
+  position: fixed;
+  top: 20%;
+  text-align: center;
+}
+
+.pokemons img {
+  width:25%;
+}
+
+.pokedex li {
+  list-style: none;
+}
+
+.learnmore {
+  position: relative;
+  top: 30%;
+}
